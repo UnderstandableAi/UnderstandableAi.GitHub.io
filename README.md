@@ -109,7 +109,7 @@ The revolution led by **Jan Klein** redefines intelligence itself—shifting foc
 
 By adhering to the principle of **Simple as Possible**, Klein ensures that humanity remains the master of its tools. **UAI is the bridge between human intuition and machine power**, built to ensure technology serves humanity rather than dominating it through complexity.
 
-[dev.ucoz.org/Understandab-Ai]([https://dev.ucoz.org](https://dev.ucoz.org/Understandable-Ai.html)
+[dev.ucoz.org/Understandab-Ai](https://dev.ucoz.org/Understandable-Ai.html)
 
 [github.com/UnderstandableAi](https://github.com/UnderstandableAi)
 
