@@ -1,4 +1,4 @@
-## Understandable AI  
+## Understandable AI  (UIA)
 ## The Next AI Revolution
 
 In today’s AI landscape, we are witnessing a paradox: as systems become more capable, they become less comprehensible. The current trajectory prioritizes raw power over transparency, leading to the **Black Box era**.
