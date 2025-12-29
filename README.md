@@ -127,5 +127,7 @@ By adhering to the principle of **Simple as Possible**, Klein ensures that human
 
 [discuss.ai.google.dev/t/understandable-ai](https://discuss.ai.google.dev/t/understandable-ai)
 
+[https://x.com/UAIDEVS](x.com/UAIDEVS)
+
 **Jan Klein**  
 CEO @ [dev.ucoz.org](https://dev.ucoz.org)
